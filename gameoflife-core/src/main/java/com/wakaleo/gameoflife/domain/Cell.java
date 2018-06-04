@@ -9,7 +9,7 @@ package com.wakaleo.gameoflife.domain;
  */
 public enum Cell {
 	// Symbols to represent cell status
-    LIVE_CELL("P"), DEAD_CELL(".");
+    LIVE_CELL("c"), DEAD_CELL(".");
 
     private String symbol;
 
